@@ -1,0 +1,5 @@
+Subset,Conditions,Fault Modes,Train Engines,Test Engines,Train Cycles,Min Train Life,Mean Train Life,Max Train Life,Mean Test Life,Mean True RUL
+FD001,1,1,100,100,20631,128,206.3,362,131.0,75.5
+FD002,6,1,260,259,53759,128,206.8,378,131.2,81.2
+FD003,1,2,100,100,24720,145,247.2,525,166.0,75.3
+FD004,6,2,249,248,61249,128,246.0,543,166.2,86.6
