@@ -1,6 +1,6 @@
 # Predictive Maintenance with Machine Learning on the NASA C-MAPSS Dataset
 
-Individual Inddependent Study, Spring 2026.
+Individual Independent Study, Spring 2026.
 
 This repository contains the full implementation, results, and write-up
 for an independent study on machine-learning-based predictive maintenance
