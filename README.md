@@ -65,12 +65,3 @@ python src/dashboard_mockup.py
 # Deployment API (Flask)
 python src/api.py --subset FD001 --port 5000
 ```
-
-## Citation
-
-If you use this code, please cite the original CMAPSS reference:
-
-> A. Saxena, K. Goebel, D. Simon, and N. Eklund (2008). *Damage Propagation
-> Modeling for Aircraft Engine Run-to-Failure Simulation*. In Proceedings
-> of the 1st International Conference on Prognostics and Health Management
-> (PHM08), Denver CO.
